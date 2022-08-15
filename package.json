@@ -4,8 +4,8 @@
   "description": "Extraordinario",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon .\\Server\\Server.js",
-    "start": "node ./Server/Server.js"
+    "test": "nodemon .\\Server\\server.js",
+    "start": "node ./Server/server"
   },
   "keywords": [
     "express",
